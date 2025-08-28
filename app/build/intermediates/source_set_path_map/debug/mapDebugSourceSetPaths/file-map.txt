@@ -1,0 +1,61 @@
+com.example.taskmaster.app-jetified-lifecycle-runtime-release-0 C:\Users\Anvesha\.gradle\caches\transforms-4\000c35b6b0580592927678b26a647853\transformed\jetified-lifecycle-runtime-release\res
+com.example.taskmaster.app-jetified-ui-release-1 C:\Users\Anvesha\.gradle\caches\transforms-4\03077d97e84c395b2b4c59e780654266\transformed\jetified-ui-release\res
+com.example.taskmaster.app-jetified-core-ktx-1.13.1-2 C:\Users\Anvesha\.gradle\caches\transforms-4\033a49dd17c8fb690325ffdcb51db513\transformed\jetified-core-ktx-1.13.1\res
+com.example.taskmaster.app-jetified-foundation-release-3 C:\Users\Anvesha\.gradle\caches\transforms-4\048555157fda1b1f931c1228b96be2d6\transformed\jetified-foundation-release\res
+com.example.taskmaster.app-core-runtime-2.2.0-4 C:\Users\Anvesha\.gradle\caches\transforms-4\0ef474b4b951c7f013936ad50b4fa280\transformed\core-runtime-2.2.0\res
+com.example.taskmaster.app-jetified-customview-poolingcontainer-1.0.0-5 C:\Users\Anvesha\.gradle\caches\transforms-4\10d4ffa1e5a44d3549c92f72bca02450\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.taskmaster.app-jetified-ui-text-release-6 C:\Users\Anvesha\.gradle\caches\transforms-4\111a13b4739fe1ce72f2e89b9fd08861\transformed\jetified-ui-text-release\res
+com.example.taskmaster.app-lifecycle-livedata-2.8.3-7 C:\Users\Anvesha\.gradle\caches\transforms-4\161480436ef229f50092ee4e147e36b3\transformed\lifecycle-livedata-2.8.3\res
+com.example.taskmaster.app-jetified-material-ripple-release-8 C:\Users\Anvesha\.gradle\caches\transforms-4\19253eba6a3490d6ae4b6063f79ea104\transformed\jetified-material-ripple-release\res
+com.example.taskmaster.app-jetified-runtime-saveable-release-9 C:\Users\Anvesha\.gradle\caches\transforms-4\1fc7877760adc21f90107b8f6d668c44\transformed\jetified-runtime-saveable-release\res
+com.example.taskmaster.app-jetified-savedstate-ktx-1.2.1-10 C:\Users\Anvesha\.gradle\caches\transforms-4\299b67f1425ff7f8dbbda9208647b11c\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.taskmaster.app-navigation-common-2.7.7-11 C:\Users\Anvesha\.gradle\caches\transforms-4\33f4d4efd1afa8897c71769ae6a7e538\transformed\navigation-common-2.7.7\res
+com.example.taskmaster.app-lifecycle-livedata-core-2.8.3-12 C:\Users\Anvesha\.gradle\caches\transforms-4\492c1a6777068a961e16784d92f1983c\transformed\lifecycle-livedata-core-2.8.3\res
+com.example.taskmaster.app-jetified-activity-ktx-1.9.0-13 C:\Users\Anvesha\.gradle\caches\transforms-4\49fb33cee1575caedb6af56145523c3e\transformed\jetified-activity-ktx-1.9.0\res
+com.example.taskmaster.app-work-runtime-ktx-2.9.0-14 C:\Users\Anvesha\.gradle\caches\transforms-4\4b50d6e290e4862a0c0c5be5d2449642\transformed\work-runtime-ktx-2.9.0\res
+com.example.taskmaster.app-jetified-material-icons-extended-release-15 C:\Users\Anvesha\.gradle\caches\transforms-4\4bede79f91961ba44668ec1e49b231ae\transformed\jetified-material-icons-extended-release\res
+com.example.taskmaster.app-jetified-runtime-release-16 C:\Users\Anvesha\.gradle\caches\transforms-4\54ae2c325e60e707740a1c00aeac1b72\transformed\jetified-runtime-release\res
+com.example.taskmaster.app-sqlite-2.4.0-17 C:\Users\Anvesha\.gradle\caches\transforms-4\56cedeb18b2673b9c14d0bde58bbc118\transformed\sqlite-2.4.0\res
+com.example.taskmaster.app-jetified-lifecycle-livedata-core-ktx-2.8.3-18 C:\Users\Anvesha\.gradle\caches\transforms-4\592d58c02208fc4c8b2a5f5d3380c240\transformed\jetified-lifecycle-livedata-core-ktx-2.8.3\res
+com.example.taskmaster.app-jetified-lifecycle-viewmodel-compose-release-19 C:\Users\Anvesha\.gradle\caches\transforms-4\5bd06c444a3d152c4f3057463d23251a\transformed\jetified-lifecycle-viewmodel-compose-release\res
+com.example.taskmaster.app-jetified-ui-unit-release-20 C:\Users\Anvesha\.gradle\caches\transforms-4\61d45b59a721f68b99cc585b8148bd67\transformed\jetified-ui-unit-release\res
+com.example.taskmaster.app-jetified-lifecycle-service-2.8.3-21 C:\Users\Anvesha\.gradle\caches\transforms-4\6521ea525d8b2c5a3ae5cfd8d4ace761\transformed\jetified-lifecycle-service-2.8.3\res
+com.example.taskmaster.app-jetified-startup-runtime-1.1.1-22 C:\Users\Anvesha\.gradle\caches\transforms-4\67f36a8e23c45da6362c1317d8c0f6bc\transformed\jetified-startup-runtime-1.1.1\res
+com.example.taskmaster.app-jetified-foundation-layout-release-23 C:\Users\Anvesha\.gradle\caches\transforms-4\699882364c8871ba6ff1a107618aa988\transformed\jetified-foundation-layout-release\res
+com.example.taskmaster.app-navigation-runtime-2.7.7-24 C:\Users\Anvesha\.gradle\caches\transforms-4\72f4a68f8848f1f8df5b83c2a932d84c\transformed\navigation-runtime-2.7.7\res
+com.example.taskmaster.app-jetified-ui-util-release-25 C:\Users\Anvesha\.gradle\caches\transforms-4\74068d569a2262711491778c19028b18\transformed\jetified-ui-util-release\res
+com.example.taskmaster.app-work-runtime-2.9.0-26 C:\Users\Anvesha\.gradle\caches\transforms-4\771050916fadf0986c96babeab977b8d\transformed\work-runtime-2.9.0\res
+com.example.taskmaster.app-core-1.13.1-27 C:\Users\Anvesha\.gradle\caches\transforms-4\7759147767d12ddb98f621981809b10c\transformed\core-1.13.1\res
+com.example.taskmaster.app-jetified-lifecycle-viewmodel-release-28 C:\Users\Anvesha\.gradle\caches\transforms-4\7d20e1ed110d17ff88649cefd7c53031\transformed\jetified-lifecycle-viewmodel-release\res
+com.example.taskmaster.app-jetified-material-icons-core-release-29 C:\Users\Anvesha\.gradle\caches\transforms-4\81bdd80726e0a321e5ca8c8e10e316c8\transformed\jetified-material-icons-core-release\res
+com.example.taskmaster.app-jetified-lifecycle-runtime-ktx-release-30 C:\Users\Anvesha\.gradle\caches\transforms-4\8322a63c28bea69dc380d6095012196f\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.example.taskmaster.app-jetified-ui-geometry-release-31 C:\Users\Anvesha\.gradle\caches\transforms-4\85c468a460111064acaf40fa981f74fb\transformed\jetified-ui-geometry-release\res
+com.example.taskmaster.app-jetified-navigation-compose-2.7.7-32 C:\Users\Anvesha\.gradle\caches\transforms-4\86f54525bd5d13160590520486785627\transformed\jetified-navigation-compose-2.7.7\res
+com.example.taskmaster.app-jetified-ui-tooling-data-release-33 C:\Users\Anvesha\.gradle\caches\transforms-4\8f2ee1c750095b355c696c62c75e8386\transformed\jetified-ui-tooling-data-release\res
+com.example.taskmaster.app-navigation-runtime-ktx-2.7.7-34 C:\Users\Anvesha\.gradle\caches\transforms-4\8f9d98db7bb6163d5f6e56382ace4311\transformed\navigation-runtime-ktx-2.7.7\res
+com.example.taskmaster.app-jetified-lifecycle-viewmodel-savedstate-2.8.3-35 C:\Users\Anvesha\.gradle\caches\transforms-4\96fa0d806b10a42e8dd260655ad361cb\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.3\res
+com.example.taskmaster.app-jetified-room-ktx-2.6.1-36 C:\Users\Anvesha\.gradle\caches\transforms-4\97aa60e76e07532b89eb2926868883b7\transformed\jetified-room-ktx-2.6.1\res
+com.example.taskmaster.app-jetified-annotation-experimental-1.4.0-37 C:\Users\Anvesha\.gradle\caches\transforms-4\a08a6d19ea8f2a81b4f19d41dbf6bd20\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.taskmaster.app-navigation-common-ktx-2.7.7-38 C:\Users\Anvesha\.gradle\caches\transforms-4\a3d51b6ed5590d3a696eb9d5cea19b65\transformed\navigation-common-ktx-2.7.7\res
+com.example.taskmaster.app-jetified-animation-release-39 C:\Users\Anvesha\.gradle\caches\transforms-4\a50cb26fb68c7745e361e3bfba67fcb4\transformed\jetified-animation-release\res
+com.example.taskmaster.app-jetified-profileinstaller-1.3.1-40 C:\Users\Anvesha\.gradle\caches\transforms-4\a916f437dac060cba34b2f99f9f92743\transformed\jetified-profileinstaller-1.3.1\res
+com.example.taskmaster.app-jetified-ui-tooling-preview-release-41 C:\Users\Anvesha\.gradle\caches\transforms-4\b31b7cbd5fdf5c9883d4b2437b5654a9\transformed\jetified-ui-tooling-preview-release\res
+com.example.taskmaster.app-room-runtime-2.6.1-42 C:\Users\Anvesha\.gradle\caches\transforms-4\c8aabb634382e091fe240e01b9141196\transformed\room-runtime-2.6.1\res
+com.example.taskmaster.app-jetified-ui-graphics-release-43 C:\Users\Anvesha\.gradle\caches\transforms-4\cf3233c45ad962e02aa77e436b4adbb5\transformed\jetified-ui-graphics-release\res
+com.example.taskmaster.app-jetified-material3-release-44 C:\Users\Anvesha\.gradle\caches\transforms-4\d3fa90760b9bd3c44892be3aca88178c\transformed\jetified-material3-release\res
+com.example.taskmaster.app-jetified-material-release-45 C:\Users\Anvesha\.gradle\caches\transforms-4\da62b2c2003fb125e02fbf49af712125\transformed\jetified-material-release\res
+com.example.taskmaster.app-jetified-savedstate-1.2.1-46 C:\Users\Anvesha\.gradle\caches\transforms-4\e000e7c67eefb858dd794080dd92d976\transformed\jetified-savedstate-1.2.1\res
+com.example.taskmaster.app-jetified-lifecycle-process-2.8.3-47 C:\Users\Anvesha\.gradle\caches\transforms-4\e035e12eeb15f80783b6bc9767b6f3da\transformed\jetified-lifecycle-process-2.8.3\res
+com.example.taskmaster.app-jetified-ui-tooling-release-48 C:\Users\Anvesha\.gradle\caches\transforms-4\e0a229b9dc37fd6797af1def99bfad7b\transformed\jetified-ui-tooling-release\res
+com.example.taskmaster.app-jetified-activity-compose-1.9.0-49 C:\Users\Anvesha\.gradle\caches\transforms-4\e1b1e54cb79e1a8e3b076c687d3a2c2e\transformed\jetified-activity-compose-1.9.0\res
+com.example.taskmaster.app-jetified-lifecycle-viewmodel-ktx-2.8.3-50 C:\Users\Anvesha\.gradle\caches\transforms-4\f04ea7db0ab3674f4e255641bc5e3f3c\transformed\jetified-lifecycle-viewmodel-ktx-2.8.3\res
+com.example.taskmaster.app-jetified-animation-core-release-51 C:\Users\Anvesha\.gradle\caches\transforms-4\f6aa8040a4c54d669a291b71f4fbaccd\transformed\jetified-animation-core-release\res
+com.example.taskmaster.app-jetified-emoji2-1.3.0-52 C:\Users\Anvesha\.gradle\caches\transforms-4\fd73a43c412fe12b11d3066eba81b2f3\transformed\jetified-emoji2-1.3.0\res
+com.example.taskmaster.app-jetified-activity-1.9.0-53 C:\Users\Anvesha\.gradle\caches\transforms-4\fe0315cdcce6d9ad0d32c065862423ec\transformed\jetified-activity-1.9.0\res
+com.example.taskmaster.app-sqlite-framework-2.4.0-54 C:\Users\Anvesha\.gradle\caches\transforms-4\fefe1ac0a73ed8192cefcf2dd50ea537\transformed\sqlite-framework-2.4.0\res
+com.example.taskmaster.app-resValues-55 C:\Users\Anvesha\AndroidStudioProjects\To-Do List\app\build\generated\res\resValues\debug
+com.example.taskmaster.app-packageDebugResources-56 C:\Users\Anvesha\AndroidStudioProjects\To-Do List\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.taskmaster.app-packageDebugResources-57 C:\Users\Anvesha\AndroidStudioProjects\To-Do List\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.taskmaster.app-debug-58 C:\Users\Anvesha\AndroidStudioProjects\To-Do List\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.taskmaster.app-debug-59 C:\Users\Anvesha\AndroidStudioProjects\To-Do List\app\src\debug\res
+com.example.taskmaster.app-main-60 C:\Users\Anvesha\AndroidStudioProjects\To-Do List\app\src\main\res
